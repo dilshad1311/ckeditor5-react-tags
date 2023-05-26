@@ -1,4 +1,4 @@
-# ckeditor5-tags
+# ckeditor5-react-tags
 
 ## Install
 
